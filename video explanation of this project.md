@@ -4,4 +4,4 @@ Predicting the price of car for a new market using linear regression
 
 Copy and paste the below link on your browser
 
-**_ [https://www.youtube.com/watch?v=RNBndMjC-6M&feature=youtu.be](url)_**
+### **_ [https://www.youtube.com/watch?v=RNBndMjC-6M&feature=youtu.be](url)_**
